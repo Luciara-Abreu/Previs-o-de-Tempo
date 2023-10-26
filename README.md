@@ -16,4 +16,4 @@ Este é um aplicativo simples que permite aos usuários verificar a previsão do
 3. **Resultados:** O aplicativo exibirá informações detalhadas sobre a previsão do tempo na cidade especificada. Você poderá ver a temperatura atual, a sensação térmica, a umidade, a velocidade do vento e as condições climáticas.
 4. **Atualizações em Tempo Real:** O aplicativo consome a API do OpenWeatherMap para fornecer dados precisos e em tempo real. As informações são atualizadas automaticamente para refletir as condições meteorológicas mais recentes.
 
-![tela simples](https://github.com/Luciara-Abreu/previsao-do-temppo/assets/36546342/f8523a95-5323-4aad-8756-39213f609a34)
+![tela simples](https://github.com/Luciara-Abreu/Previsao-do-Tempo/assets/36546342/48407298-e524-419b-8d32-da8ff91d47bd)
